@@ -1,0 +1,1 @@
+C:\xampp\htdocs\jobsportal\app/views/resumes/show.blade.php

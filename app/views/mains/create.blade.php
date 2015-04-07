@@ -1,0 +1,1 @@
+C:\xampp\htdocs\jobsportal\app/views/mains/create.blade.php
